@@ -134,6 +134,8 @@ Client-ID: <client_id>
 
 In situations where headers cannot be set, you can also specify a client ID as a querystring parameter: `client_id=<client_id>`
 
+You can register your application to get a `client_id` at https://www.twitch.tv/settings/connections
+
 <a name="oauth"/>
 <a name="wiki-auth"/>
 ## Authentication
